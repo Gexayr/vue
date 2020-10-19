@@ -42,7 +42,7 @@
     animation: .75s fade forwards;
 }
 .fade-leave-active {
-    animation: .75s fade reverce;
+    animation: .75s fade reverse;
 }
 
 .fade-enter, .fade-leave-to {
